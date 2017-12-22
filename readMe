@@ -1,0 +1,1 @@
+First Android Studio project. The app has a simple UI. The user taps a button, an API call is made to a web server which then returns a random name to the user on screen.
